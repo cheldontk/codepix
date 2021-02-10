@@ -1,4 +1,4 @@
-module github.com/cheldontk/codepix-go
+module github.com/cheldontk/codepix
 
 go 1.15
 
